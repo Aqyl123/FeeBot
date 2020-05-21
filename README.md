@@ -6,3 +6,5 @@ GET STARTED:
 - Paste your token on `Line 4`
 
 Use `python fees.py` to start
+
+<img src="https://i.imgur.com/H4yXVrD.png">
