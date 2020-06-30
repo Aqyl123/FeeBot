@@ -7,4 +7,8 @@ GET STARTED:
 
 Use `python fees.py` to start
 
-<img src="https://i.imgur.com/H4yXVrD.png">
+
+UPDATE (6/30/2020):
+- Added PayPal as a merchant.
+
+<img src="https://i.gyazo.com/281056217794b7f06427c07cdd351a21.png">
